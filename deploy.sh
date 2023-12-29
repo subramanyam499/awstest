@@ -1,3 +1,5 @@
 echo ''environments''
 echo ''test from aws''
 echo 'test is done successful'
+echo '2nd test is done successful'
+echo '3rd test is done successful'
